@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XMTypes>
+  <xmtype code="HXXM">
+    <type>
+      <id>1</id>
+      <name>企、事业单位委托的项目</name>
+    </type>
+    <type>
+      <id>2</id>
+      <name>技术开发、技术转让项目</name>
+    </type>
+    <type>
+      <id>3</id>
+      <name>其它</name>
+    </type>
+  </xmtype>
+  <xmtype code="ZXXM">
+    <type>
+      <id>4</id>
+      <name>国家社会科学基金项目</name>
+    </type>
+    <type>
+      <id>5</id>
+      <name>国家自然科学基金项目</name>
+    </type>
+    <type>
+      <id>6</id>
+      <name>863计划</name>
+    </type>
+    <type>
+      <id>7</id>
+      <name>973计划</name>
+    </type>
+    <type>
+      <id>8</id>
+      <name>学校科研项目</name>
+    </type>
+    <type>
+      <id>9</id>
+      <name>省级项目</name>
+    </type>
+    <type>
+      <id>10</id>
+      <name>全国教育科学规划课题</name>
+    </type>
+    <type>
+      <id>11</id>
+      <name>省级项目</name>
+    </type>
+    <type>
+      <id>12</id>
+      <name>地州级项目</name>
+    </type>
+    <type>
+      <id>13</id>
+      <name>中央基础研究项目</name>
+    </type>
+    <type>
+      <id>14</id>
+      <name>其它</name>
+    </type>
+  </xmtype>
+</XMTypes>
